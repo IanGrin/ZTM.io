@@ -1,0 +1,15 @@
+.parent, p {
+    background-color: blue;
+}
+/* .parent p {
+    background-color: aqua;
+} */
+/* .parent > p {
+    background-color: blueviolet;
+} */
+/* .child > p {
+    background-color: blueviolet;
+} */
+/* .parent + p {
+    background-color: aquamarine;
+} */

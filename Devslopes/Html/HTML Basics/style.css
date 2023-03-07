@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+table {
+    width: 100%; 
+}
+table, th, tr, td {
+    border: 1px solid black;
+}
