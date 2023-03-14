@@ -7,23 +7,23 @@ getElementById - Done
 querySelector - Done
 querySelectorAll - Done
 
-getAttribute - 
-setAttribute
+getAttribute - Done
+setAttribute - Done
 
 ##Changing Styles
-style.{property} //ok
+style.{property} //ok - Done
 
-className //best
-classList //best
+className //best - Done
+classList //best - Done
 
-classList.add
-classList.remove
-classList.toggle
+classList.add - Done
+classList.remove - Done
+classList.toggle - Done
 
 ##Bonus
-innerHTML //DANGEROUS
+innerHTML //DANGEROUS - Done
 
-parentElement
-children
+parentElement - Done
+children - Done
 
 ##It is important to CACHE selectors in variables
