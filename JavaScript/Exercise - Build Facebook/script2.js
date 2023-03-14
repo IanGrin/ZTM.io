@@ -39,20 +39,6 @@ function signIn(username, password) {
     } else {
         alert("Sorry, wrong username and password");
     }
-
-    // for (var i=0; i < database.length; i++) {
-    //     if(database[i].username  === username && database[i].password === password) {
-    //         console.log(newsFeed);
-    //     } else {
-    //         alert("Sorry, wrong username and password");
-    //     }
-    // }
-    
-    // if (user === database[0].username && pass === database[0].password) {
-    //     console.log(newsFeed);
-    // } else {
-    //     alert("Sorry, Wrong username and password!")
-    // }
 } 
 
 var userNamePrompt = prompt("Whats your username?");
